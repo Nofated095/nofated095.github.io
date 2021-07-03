@@ -3,11 +3,11 @@
   <title>Nofated&#39;s Blog</title>
   
   <subtitle>I hope to be with you everyday.</subtitle>
-  <link href="https://nofated095.github.io/atom.xml" rel="self"/>
+  <link href="https://nofated.restent.win/atom.xml" rel="self"/>
   
-  <link href="https://nofated095.github.io/"/>
-  <updated>2021-07-01T10:52:22.447Z</updated>
-  <id>https://nofated095.github.io/</id>
+  <link href="https://nofated.restent.win/"/>
+  <updated>2021-07-03T12:16:14.942Z</updated>
+  <id>https://nofated.restent.win/</id>
   
   <author>
     <name>Nofated</name>
@@ -17,9 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>新域名</title>
+    <link href="https://nofated.restent.win/2021/07/03/newdomain/"/>
+    <id>https://nofated.restent.win/2021/07/03/newdomain/</id>
+    <published>2021-07-03T12:12:09.000Z</published>
+    <updated>2021-07-03T12:16:14.942Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>感谢 Restent Ou，我现在有了一个帅气的二级域名 <a href="https://nofated.restent.win/">https://nofated.restent.win</a>。这几天做一下工作</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="日常生活" scheme="https://nofated.restent.win/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="博客" scheme="https://nofated.restent.win/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Domain" scheme="https://nofated.restent.win/tags/Domain/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Ubuntu To Go 制作教程</title>
-    <link href="https://nofated095.github.io/2021/07/01/ubuntu-to-go/"/>
-    <id>https://nofated095.github.io/2021/07/01/ubuntu-to-go/</id>
+    <link href="https://nofated.restent.win/2021/07/01/ubuntu-to-go/"/>
+    <id>https://nofated.restent.win/2021/07/01/ubuntu-to-go/</id>
     <published>2021-07-01T10:37:04.000Z</published>
     <updated>2021-07-01T10:52:22.447Z</updated>
     
@@ -30,19 +56,19 @@
     
     
     
-    <category term="写BUG日常" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
+    <category term="写BUG日常" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="教程" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Ubuntu" scheme="https://nofated095.github.io/tags/Ubuntu/"/>
+    <category term="Ubuntu" scheme="https://nofated.restent.win/tags/Ubuntu/"/>
     
   </entry>
   
   <entry>
     <title>Office 安装和激活</title>
-    <link href="https://nofated095.github.io/2021/06/20/office-setup/"/>
-    <id>https://nofated095.github.io/2021/06/20/office-setup/</id>
+    <link href="https://nofated.restent.win/2021/06/20/office-setup/"/>
+    <id>https://nofated.restent.win/2021/06/20/office-setup/</id>
     <published>2021-06-20T05:12:22.000Z</published>
     <updated>2021-07-01T00:03:16.213Z</updated>
     
@@ -53,25 +79,25 @@
     
     
     
-    <category term="写BUG日常" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
+    <category term="写BUG日常" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="教程" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Windows" scheme="https://nofated095.github.io/tags/Windows/"/>
+    <category term="Windows" scheme="https://nofated.restent.win/tags/Windows/"/>
     
-    <category term="Office" scheme="https://nofated095.github.io/tags/Office/"/>
+    <category term="Office" scheme="https://nofated.restent.win/tags/Office/"/>
     
-    <category term="Office 2021" scheme="https://nofated095.github.io/tags/Office-2021/"/>
+    <category term="Office 2021" scheme="https://nofated.restent.win/tags/Office-2021/"/>
     
-    <category term="KMS" scheme="https://nofated095.github.io/tags/KMS/"/>
+    <category term="KMS" scheme="https://nofated.restent.win/tags/KMS/"/>
     
   </entry>
   
   <entry>
     <title>折腾你的老 Mac | 给不支持的 Mac 安装 Big Sur</title>
-    <link href="https://nofated095.github.io/2021/06/08/old-macbook-bigsur/"/>
-    <id>https://nofated095.github.io/2021/06/08/old-macbook-bigsur/</id>
+    <link href="https://nofated.restent.win/2021/06/08/old-macbook-bigsur/"/>
+    <id>https://nofated.restent.win/2021/06/08/old-macbook-bigsur/</id>
     <published>2021-06-08T07:08:54.000Z</published>
     <updated>2021-06-26T03:45:21.847Z</updated>
     
@@ -82,21 +108,21 @@
     
     
     
-    <category term="写BUG日常" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
+    <category term="写BUG日常" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="教程" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Mac" scheme="https://nofated095.github.io/tags/Mac/"/>
+    <category term="Mac" scheme="https://nofated.restent.win/tags/Mac/"/>
     
-    <category term="Big Sur" scheme="https://nofated095.github.io/tags/Big-Sur/"/>
+    <category term="Big Sur" scheme="https://nofated.restent.win/tags/Big-Sur/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu 安装 aria2 并配置</title>
-    <link href="https://nofated095.github.io/2021/02/27/ubuntu-aria2/"/>
-    <id>https://nofated095.github.io/2021/02/27/ubuntu-aria2/</id>
+    <link href="https://nofated.restent.win/2021/02/27/ubuntu-aria2/"/>
+    <id>https://nofated.restent.win/2021/02/27/ubuntu-aria2/</id>
     <published>2021-02-27T13:49:11.000Z</published>
     <updated>2021-06-09T02:24:43.216Z</updated>
     
@@ -107,23 +133,23 @@
     
     
     
-    <category term="写BUG日常" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
+    <category term="写BUG日常" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="教程" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Ubuntu" scheme="https://nofated095.github.io/tags/Ubuntu/"/>
+    <category term="Ubuntu" scheme="https://nofated.restent.win/tags/Ubuntu/"/>
     
-    <category term="aria2" scheme="https://nofated095.github.io/tags/aria2/"/>
+    <category term="aria2" scheme="https://nofated.restent.win/tags/aria2/"/>
     
-    <category term="下载" scheme="https://nofated095.github.io/tags/%E4%B8%8B%E8%BD%BD/"/>
+    <category term="下载" scheme="https://nofated.restent.win/tags/%E4%B8%8B%E8%BD%BD/"/>
     
   </entry>
   
   <entry>
     <title>让你的文章更耐看</title>
-    <link href="https://nofated095.github.io/2020/10/15/beautiful-passages/"/>
-    <id>https://nofated095.github.io/2020/10/15/beautiful-passages/</id>
+    <link href="https://nofated.restent.win/2020/10/15/beautiful-passages/"/>
+    <id>https://nofated.restent.win/2020/10/15/beautiful-passages/</id>
     <published>2020-10-15T02:34:46.000Z</published>
     <updated>2021-06-26T03:45:32.719Z</updated>
     
@@ -134,23 +160,23 @@
     
     
     
-    <category term="写BUG日常" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
+    <category term="写BUG日常" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="教程" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Hexo" scheme="https://nofated095.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://nofated.restent.win/tags/Hexo/"/>
     
-    <category term="Icarus" scheme="https://nofated095.github.io/tags/Icarus/"/>
+    <category term="Icarus" scheme="https://nofated.restent.win/tags/Icarus/"/>
     
-    <category term="Bulma" scheme="https://nofated095.github.io/tags/Bulma/"/>
+    <category term="Bulma" scheme="https://nofated.restent.win/tags/Bulma/"/>
     
   </entry>
   
   <entry>
     <title>虚拟机安装 android-x86</title>
-    <link href="https://nofated095.github.io/2020/10/01/android-x86/"/>
-    <id>https://nofated095.github.io/2020/10/01/android-x86/</id>
+    <link href="https://nofated.restent.win/2020/10/01/android-x86/"/>
+    <id>https://nofated.restent.win/2020/10/01/android-x86/</id>
     <published>2020-10-01T09:00:00.000Z</published>
     <updated>2021-07-03T03:30:11.532Z</updated>
     
@@ -161,21 +187,21 @@
     
     
     
-    <category term="写BUG日常" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
+    <category term="写BUG日常" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="教程" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="android" scheme="https://nofated095.github.io/tags/android/"/>
+    <category term="android" scheme="https://nofated.restent.win/tags/android/"/>
     
-    <category term="虚拟机" scheme="https://nofated095.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    <category term="虚拟机" scheme="https://nofated.restent.win/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>B站外嵌视频播放器防踩坑</title>
-    <link href="https://nofated095.github.io/2020/09/21/bilibili-player/"/>
-    <id>https://nofated095.github.io/2020/09/21/bilibili-player/</id>
+    <link href="https://nofated.restent.win/2020/09/21/bilibili-player/"/>
+    <id>https://nofated.restent.win/2020/09/21/bilibili-player/</id>
     <published>2020-09-21T02:08:09.000Z</published>
     <updated>2021-06-09T02:24:43.215Z</updated>
     
@@ -186,21 +212,21 @@
     
     
     
-    <category term="写BUG日常" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
+    <category term="写BUG日常" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="教程" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="HTML5" scheme="https://nofated095.github.io/tags/HTML5/"/>
+    <category term="HTML5" scheme="https://nofated.restent.win/tags/HTML5/"/>
     
-    <category term="Bilibili" scheme="https://nofated095.github.io/tags/Bilibili/"/>
+    <category term="Bilibili" scheme="https://nofated.restent.win/tags/Bilibili/"/>
     
   </entry>
   
   <entry>
     <title>Windows 系统软件合集</title>
-    <link href="https://nofated095.github.io/2020/06/05/win-sw/"/>
-    <id>https://nofated095.github.io/2020/06/05/win-sw/</id>
+    <link href="https://nofated.restent.win/2020/06/05/win-sw/"/>
+    <id>https://nofated.restent.win/2020/06/05/win-sw/</id>
     <published>2020-06-05T09:36:23.000Z</published>
     <updated>2021-06-09T02:24:43.217Z</updated>
     
@@ -211,19 +237,19 @@
     
     
     
-    <category term="写BUG日常" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
+    <category term="写BUG日常" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="资源" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E8%B5%84%E6%BA%90/"/>
+    <category term="资源" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E8%B5%84%E6%BA%90/"/>
     
     
-    <category term="Windows" scheme="https://nofated095.github.io/tags/Windows/"/>
+    <category term="Windows" scheme="https://nofated.restent.win/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>TIS Trinity Union 图片壁纸</title>
-    <link href="https://nofated095.github.io/2020/05/15/tis/"/>
-    <id>https://nofated095.github.io/2020/05/15/tis/</id>
+    <link href="https://nofated.restent.win/2020/05/15/tis/"/>
+    <id>https://nofated.restent.win/2020/05/15/tis/</id>
     <published>2020-05-15T06:33:53.000Z</published>
     <updated>2021-06-09T02:24:43.216Z</updated>
     
@@ -234,19 +260,19 @@
     
     
     
-    <category term="日常生活" scheme="https://nofated095.github.io/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
+    <category term="日常生活" scheme="https://nofated.restent.win/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="玩游戏" scheme="https://nofated095.github.io/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/%E7%8E%A9%E6%B8%B8%E6%88%8F/"/>
+    <category term="玩游戏" scheme="https://nofated.restent.win/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/%E7%8E%A9%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="Minecraft" scheme="https://nofated095.github.io/tags/Minecraft/"/>
+    <category term="Minecraft" scheme="https://nofated.restent.win/tags/Minecraft/"/>
     
   </entry>
   
   <entry>
     <title>Gridea 魔改使其支持 Gitee Pages</title>
-    <link href="https://nofated095.github.io/2020/05/09/gridea-gitee/"/>
-    <id>https://nofated095.github.io/2020/05/09/gridea-gitee/</id>
+    <link href="https://nofated.restent.win/2020/05/09/gridea-gitee/"/>
+    <id>https://nofated.restent.win/2020/05/09/gridea-gitee/</id>
     <published>2020-05-09T03:33:30.000Z</published>
     <updated>2021-06-29T08:38:16.256Z</updated>
     
@@ -257,12 +283,12 @@
     
     
     
-    <category term="写BUG日常" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
+    <category term="写BUG日常" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="教程" scheme="https://nofated095.github.io/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://nofated.restent.win/categories/%E5%86%99BUG%E6%97%A5%E5%B8%B8/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Gridea" scheme="https://nofated095.github.io/tags/Gridea/"/>
+    <category term="Gridea" scheme="https://nofated.restent.win/tags/Gridea/"/>
     
   </entry>
   
